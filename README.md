@@ -22,11 +22,15 @@ npm install -g expo-cli
 
 1. Open your terminal/CMD
 2. Locate the project ex: cd Desktop/nav-combine-boilerplate 
-3. Run this command to login to your Expo account
+3. Run this command to install all dependencies (You will see on package.json)
+```
+npm install
+```
+4. Run this command to login to your Expo account
 ```
 expo login
 ```
-4. After you login run this
+5. After you login run this
 ```
 expo start
 ```
